@@ -1,0 +1,46 @@
+Terms of Service
+Last updated 25 October 2026
+
+These are the rules for using FreeChess. They are short, and they exist to keep games fair and the community pleasant.
+
+Agreeing to these terms
+By using FreeChess you agree to these terms and to the Privacy Policy. If you do not agree, please do not use the app.
+
+Who can play
+FreeChess is not directed at children under 13. To play online you need a Google account and must meet Google’s age requirements where you live.
+
+Your account
+Your account is for you alone. Keep your Google sign-in safe; you are responsible for what happens on your account. You can delete it at any time in Settings.
+
+Usernames and avatars
+Choose a name that is not offensive, hateful or sexual, does not pretend to be someone else, and does not contain anyone’s personal details or an advert. If you show your Google profile photo as your avatar, the same rules apply to the photo. We may change or remove a username, or reset an avatar, that breaks this.
+
+Fair play
+Online games must be your own play. Do not use chess engines, bots or outside help during a game, and do not manipulate ratings — for example by losing on purpose, arranging results or using more than one account. Do not exploit bugs. We may remove results, reset ratings, or suspend or close accounts that do.
+
+Respect other players
+Do not harass anyone, including through chat, repeated challenges or friend requests. You can block any player, which stops requests, search results and challenges between you, and report a player from their profile, including for what they sent in chat. We review reports and may hide a profile picture, change a username, or suspend an account that breaks these terms.
+
+Computer opponents
+When no one is available, Quick match may pair you with a FreeChess computer opponent at your level. These games are rated at the computer opponent’s measured strength, computer opponents do not appear on the leaderboard, and they may reply to quick chat.
+
+Ratings
+Ratings and tiers are FreeChess’s own estimate of playing strength. They are not an official or FIDE rating, and we may adjust them to correct errors or unfair play.
+
+Premium subscriptions
+Playing FreeChess is free. Premium is an optional subscription, sold monthly or yearly through Google Play, that removes ads and the daily limits on game reviews and hints. The price is shown before you buy and is charged to your Google Play account. If a free trial is offered, it is for new subscribers only, and the subscription starts at the full price when the trial ends unless you cancel before then. It renews automatically at the end of each period until you cancel. You can cancel at any time in Google Play under Payments & subscriptions; Premium then stays active until the period you paid for ends. Refunds are handled by Google Play under its refund policy. Uninstalling the app does not cancel a subscription. If we change the price, Google Play tells you before it applies to you.
+
+The service
+FreeChess is provided as it is. Online play depends on servers and your connection, and games can be affected by outages or disconnections, which are decided by the game’s own timeout rules. We may change, pause or end features, or the service, at any time.
+
+Our content
+The FreeChess name, logo, artwork and lessons belong to us. You may not copy or resell them, or use them to suggest that something is made by FreeChess when it is not.
+
+Ending use
+You can stop using FreeChess and delete your account whenever you like. We may suspend or close an account that breaks these terms.
+
+Responsibility
+To the extent the law allows, FreeChess is not responsible for indirect losses, lost games or ratings, or problems caused by things outside our control. Nothing here limits rights you have by law that cannot be limited.
+
+Changes and contact
+If these terms change, the date at the top changes with them. Continuing to use FreeChess after a change means you accept it. Questions: freechess.support@gmail.com.

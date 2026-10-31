@@ -1,0 +1,58 @@
+Privacy Policy
+Last updated 25 October 2026
+
+FreeChess is built to need as little about you as possible. This explains what it keeps, where, who can see it, and how to remove it.
+
+Playing without an account
+Everything works as a guest except online play. Without an account, your name, practice games, match history, lesson and puzzle progress, preferences and any game in progress are stored only on this device. None of it is sent to us.
+
+Signing in with Google
+Signing in is optional and is needed only for online games, friends, challenges and the leaderboard. When you sign in, Google shares your name, email address, profile photo link and an account identifier with our sign-in provider, which keeps them with your sign-in record. We never receive your Google password. Your email and real name are never shown to other players, and your Google photo is shown only if you choose it as your avatar.
+
+What your account stores
+Your chosen username; the avatar and country flag you pick, including a link to your Google profile photo if you choose that as your avatar; your online rating and win, draw and loss record; your online games and their moves; your friends, friend requests, challenges and the players you have blocked; a rough “last active” time used to show friends whether you are online; and a notification address for each device you have signed in on and allowed notifications. It also keeps a backup of your practice games, match history, lessons and puzzles, so they come back when you sign in on another phone.
+
+Your country flag
+To save you a step, the app may fill in a flag from your device’s region setting. It does not use your location. You can change or remove the flag at any time in Your look.
+
+What other players can see
+Your username, rating, tier, avatar and flag appear on the leaderboard, in username search and during a game, and the moves of online games are shared with your opponent. You can use your first initial, a built-in avatar, or your Google profile photo. The photo is visible to other players only while you use it: choosing another avatar removes the link from your profile. The photo stays hosted by Google, and there are no photo uploads. If you have Premium, other players see a gold ring on your avatar and a Premium badge on your profile. Whether you are online is visible only to your friends.
+
+Chat in games
+In an online game you can send your opponent an emoji or a phrase from a fixed list we wrote. We keep which one was sent, by whom and when for no more than two hours, to limit spam and to let computer opponents reply, and then delete it. Typed messages are possible only between two players who have both accepted each other as friends. Before a typed message is delivered we remove links, email addresses and phone numbers and hide offensive words. Typed messages are kept for 24 hours, so that if you report the player from their profile we can see what was said, and then deleted. You can mute a player for the rest of a game from the game menu, or block them from their profile.
+
+Messages between friends
+You can message a player only while you are both friends. We store each message with who sent it, who it is for, when, and whether it has been read, so it can appear in your Inbox, and we send the recipient a notification with your name and the message. As with chat in games, links, email addresses and phone numbers are removed and offensive words are hidden before a message is stored. Messages are deleted after 30 days, or when either account is deleted. A message you report is copied into the report. Removing or blocking a friend stops new messages and hides your conversation from both of you; if you become friends again within those 30 days, it comes back.
+
+Reporting and blocking
+If you report a player, we keep the report — who you reported, the reason, any note you add and the game, if one is attached — so we can review it. The reported player is never told who reported them. If you delete your account, reports you made are kept without your name. Blocking is stored with your account so the block keeps working.
+
+Notifications
+If you allow them, your phone schedules an evening practice reminder and a warning if you leave a live online game; those two never leave your device. When you are signed in, we also send notifications when a friend challenges you or answers your challenge, a match is found, someone joins your game or starts a rematch, and when a friend request arrives or is accepted, and when a friend sends you a message — that notification shows their name and the message. To do that we keep a notification address for your device with your account, and each notification, which names the other player, is delivered through Expo’s push service and Google’s Firebase Cloud Messaging. Signing out removes your device’s address. You can turn notifications off in your device settings.
+
+Crash reports
+If FreeChess crashes or stops responding, it sends a crash report to Google Firebase Crashlytics so we can find and fix the fault. A report contains the error and where in the app it happened, the screens you had just visited, your device model, Android version, memory and app version, and a random installation identifier. It does not contain your name, email, username, moves or messages. Reports are kept for 90 days and used only to fix crashes.
+
+Advertising
+Without Premium, FreeChess shows ads from Google AdMob: an occasional full-screen ad between games, never during a game, and short ads you can choose to watch for an extra game review or hint. To show and measure ads, Google receives your device’s advertising ID, IP address, and basic device and app information. Where the law requires it, including the EEA and the UK, you are asked first whether ads may be personalised, and you can change that choice at any time in Settings under Ad privacy choices. You can also reset or delete your advertising ID in your device settings. Ads are limited to Google’s PG rating: content suitable for most audiences with parental guidance. How Google uses this information is described at policies.google.com/technologies/ads.
+
+Premium and purchases
+Premium is a subscription bought through Google Play, which handles the payment; we never see your card or payment details. RevenueCat manages subscription status for us and receives the purchase record from Google Play with a random app identifier, or your account’s internal ID if you are signed in so Premium follows you to other devices. If you are signed in, our server also keeps whether your Premium is active and until when, so other players see your Premium badge and your Premium chat reactions work. On this device we keep only whether Premium is active and how many free reviews and hints you have used today.
+
+What we do not do
+We do not sell or rent your information, and we do not use it to profile you. Crash reports are never used for anything but fixing crashes, and Premium players are not shown ads at all.
+
+Services we rely on
+Google provides sign-in. Supabase hosts the account data described above. Expo and Google Firebase Cloud Messaging deliver the notifications described above, and Firebase Crashlytics receives the crash reports described above. Google AdMob shows the ads, and Google Play and RevenueCat handle Premium, as described above. Rate FreeChess opens Google Play, and Send feedback opens your own email app with your player name, rating and basic device details filled in, so you see exactly what is sent. Sharing uses your phone’s own share sheet; we receive nothing from it.
+
+Removing your data
+Sign out clears this device; your account keeps its data for when you return. Delete account, in Settings, permanently removes your account: your username is released, and your rating, avatar and photo link, friends, notification addresses and backup are erased. Games you played stay in your opponents’ records with your account removed from them. If you tell us why you are leaving, that answer is kept without your name, email or rating. As a guest, Start over erases everything on this device, and uninstalling the app removes it too.
+
+Children
+FreeChess is not directed at children under 13. Online features need a Google account, and Google’s own age rules for accounts apply.
+
+Emailing support
+If you email us from Help & support, the app attaches a text file with your app version, device model, system, screen size and time zone; your account details (username, player number, internal user ID, rating, country and when you joined); Premium status; the name, settings, practice record and recent games on this device; and recent error notes, so we can help without asking twice. You can read the file before sending, it contains no password or email address, and it is only sent if you send the email. We use it only to answer you.
+
+Changes and contact
+If this policy changes, the date at the top changes with it and the new version is shown here. Questions or requests: freechess.support@gmail.com.

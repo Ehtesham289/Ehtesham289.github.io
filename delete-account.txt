@@ -1,0 +1,11 @@
+Delete your FreeChess account
+
+You can request deletion even if you have uninstalled FreeChess or cannot open the app.
+
+Email freechess.support@gmail.com with the subject “FreeChess account deletion”. Include the Google email address you used to sign in and, if you remember it, your FreeChess username. Do not send a password or sign-in code. We may ask you to verify that you own the account before deleting it.
+
+If you still have the app, open the More tab, then Account → Delete account.
+
+Your sign-in record, username, rating, profile, friends, device notification addresses and account backup are removed. Games you played can remain in opponents’ records with your account removed from them. If you voluntarily gave a reason for leaving, it can remain without your name, email or rating.
+
+Requests sent by email are completed within 30 days. Game moves kept in opponents' records and an anonymous reason for leaving stay without any link to your account.
